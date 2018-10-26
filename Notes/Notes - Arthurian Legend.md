@@ -18,7 +18,7 @@
  
  **Cei** and **Bedwyr**, who would become **Kay** and **Bedivere.**
  
- In the Welsh **<span class="underline"triads</span** or the Medieval collections of groupings of three that make up
+ In the Welsh **<span class="underline">triads</span>** or the Medieval collections of groupings of three that make up
  
  a major portion of Welsh literature and folklore, many references are made to Arthur,
  
@@ -26,17 +26,17 @@
  
  (The Annals of Wales) it says, “…where Arthur and Medraut perished…”
  
- The famous Medieval cleric **<span class="underline"Geoffrey of Monmouth</span** is the first great chronicler of
+ The famous Medieval cleric **<span class="underline">Geoffrey of Monmouth</span>** is the first great chronicler of
  
  the Arthurian legend – it is from Geoffrey that the character of **Merlin** receives its
  
  fullest development – according to Geoffrey, Arthur’s magical sword is known as
  
- ***<span class="underline"Caliburn</span***, possibly based on the famous Irish sword *Caladbolg* and was forged
+ **Caliburn**, possibly based on the famous Irish sword *Caladbolg* and was forged
  
- on the **<span class="underline"Isle of Avalon</span**.
+ on the **<span class="underline">Isle of Avalon</span>**.
  
- The 9<supth</sup century monk **<span class="underline"Nennius</span**, in his ***<span class="underline"Historia Brittorium</span***, places Arthur in a time
+ The 9<sup>th</sup> century monk <span class="underline">**Nennius**</span>, in his ***Historia Brittorium***, places Arthur in a time
  
  period that can be verified and gives details of Arthur’s military career – he lists 12
  
@@ -50,13 +50,13 @@
  
  Christianize Arthur – Welsh tales, after all, were quite pagan\!
  
- Influenced by the work of Geoffrey of Monmouth, a French author named **<span class="underline"Wace</span**
+ Influenced by the work of Geoffrey of Monmouth, a French author named **Wace**
  
  wrote his own history of the English kings. His ***Roman de Brut*** gives us the first
  
- glimpse of **<span class="underline"courtly love</span**, as well as the earliest reference to the **<span class="underline"round table</span** and
+ glimpse of **courtly love**, as well as the earliest reference to the **round table** and
  
- the naming of Arthur’s sword, **<span class="underline"Excalibur</span**.
+ the naming of Arthur’s sword, **Excalibur**.
  
  These sources, along with Sir Thomas Malory’s famous ***Le Morte D’Arthur*** (1470)
  
