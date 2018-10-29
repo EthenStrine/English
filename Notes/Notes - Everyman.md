@@ -17,8 +17,7 @@ Everyman, when informed of his pilgrimage, begins to call on his &quot;friends&q
   **Goods** - all your worldly possessions - will not/cannot go either - they are worthless
 
   **Good Deeds** - your good works - few and far between! - bound &quot;under the ground&quot; - buried too deeply under the weight of sin to do Everyman any good - they can&#39;t go - _yet_.
-
-        **Knowledge** - represents the knowledge and acceptance of one&#39;s sins - **She can go!**
+>    **Knowledge** - represents the knowledge and acceptance of one&#39;s sins - **She can go!**
 
 Knowledge accompanies Everyman to **confession** - this personification of **auricular confession** - the first  of four parts of the sacrament of **penance** (shrift)
 
