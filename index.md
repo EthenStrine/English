@@ -50,6 +50,7 @@
 
 [The Canterbury Tales](https://dwarf.pro/English/Essays/Essay%20-%20The%20Canterbury%20Tales)
 
+[Sonnet 12 Explication](https://dwarf.pro/English/Essays/Explication%20-%20Sonnet%2012%20(Shakespeare))
   
 
 ## Writings:
