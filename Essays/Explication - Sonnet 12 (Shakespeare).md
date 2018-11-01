@@ -18,3 +18,4 @@ And die as fast as they see others grow;
 William Shakespeare
 
 
+The first four lines for *Sonnet XII* introduce the concept of time, of which the narrator has no kind things to say about. Though they do discribe the sunset very nicely. The narrator talks about the passing of time in sort of revant way, almost fearful. Although the general idea that time shall not wait for any man, woman, child, nor living creature is sewn throughout the sonnet.  Leading to a great sonnet overall.
