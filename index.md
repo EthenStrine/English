@@ -42,6 +42,8 @@
 
 [The Wanderer](https://dwarf.pro/English/Notes/Notes%20-%20The%20Wanderer)
 
+[Macbeth](https://dwarf.pro/English/Notes/Notes%20-%20Macbeth)
+
   
 
 ## Essays:
