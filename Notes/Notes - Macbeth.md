@@ -49,3 +49,13 @@ reign – he was assassinated in 1058 after only 7 months on the throne (Malcolm
 most likely had something to do with the assassination) – at the age of 27, Malcolm
 
 was crowned King Malcolm III of Scotland.
+
+
+
+
+
+## Act 1
+
+### Scene 1
+**Setting** - This is a very dark tragedy - most of the play takes plce in a darkened world - we will see that this represents the evil that is come upon the Earth.
+
