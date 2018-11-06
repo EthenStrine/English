@@ -68,3 +68,5 @@ II 65-68 - ```"Lesser than Macbeth and greater..."``` **paradox** - the witches'
 
 II 108-109 - **motif** - the idea of "borrowed robes" will be a motif that goes throughout the play's action - borrowed robes, as robes not meant for one, is a metaphor for that which is not rightly yours.
 
+
+Banquo is presented as the ***foil*** - the opposite or contrast in character and personally to what may be the story's protagonist - through him, we see more negative qualities of Macbeth.
