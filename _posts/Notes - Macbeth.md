@@ -70,3 +70,7 @@ II 108-109 - **motif** - the idea of "borrowed robes" will be a motif that goes 
 
 
 Banquo is presented as the ***foil*** - the opposite or contrast in character and personally to what may be the story's protagonist - through him, we see more negative qualities of Macbeth.
+
+### Scene 5
+
+II 12-15 - **irony** - a great example of irony here - Duncan laments that, with regard to the former Thane of Cawdor, one cannot "judge a book by its cover" - the irony is that he is about to make the exact same error in judgement with Macbeth!
