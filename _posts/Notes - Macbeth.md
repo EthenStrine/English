@@ -60,3 +60,6 @@ was crowned King Malcolm III of Scotland.
 **Setting** - This is a very dark tragedy - most of the play takes plce in a darkened world - we will see that this represents the evil that is come upon the Earth.
 
 II. 10-11 - ```"Fair is foul and foul is fair..." ``` **paradox** - the play has numerous paradoxes which are significant in terms of the plot - this one, while not immediately understood by the audience, will be proven accurate as the play progresses.
+
+### Scene 3 
+II 19-20 - **motif** - sleeplessness is a reoccuring theme throughout the play.
