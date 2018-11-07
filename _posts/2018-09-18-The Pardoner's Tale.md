@@ -33,18 +33,12 @@ I. 171 - the rioters forget Death when they see the gold, unaware that gold can 
 I 178 - &quot;It&#39;s clear that Fortune... this treasure...&quot; - this philosopher Boethius argued that good fortune is always bad because it makes one trust in worldly things and forget God.
 
 ll. 167-169 –  the old man sends the rioters to a tree in search of death – they find gold
-
-                       and the gold reveals their greed – greed leads to Death.
+  and the gold reveals their greed – greed leads to Death.
 
 l. 171 –  the rioters forget Death when they see the gold, unaware that gold can lead to
+death – they see only the surface of things, not the underlying spiritual truths.
 
-              death – they see only the surface of things, not the underlying spiritual truths.
-
-l. 178 –  &quot;It&#39;s clear that Fortune…this treasure…&quot; –  the philosopher Boethius argued
-
-               that good fortune is always bad because it makes one trust in worldly things
-
-               and forget God.
+l. 178 –  &quot;It&#39;s clear that Fortune…this treasure…&quot; –  the philosopher Boethius argued  that good fortune is always bad because it makes one trust in worldly things and forget God.
 
 ll. 181-182 –  irony –  good fortune will lead to Death – the moral of the tale is Radix
 
@@ -56,24 +50,16 @@ ll. 223-230 –  greed manifests itself as one rioter suggests murder of another
 
 l. 231 –  irony –  the rioter says one thing but means quite the opposite!
 
-ll. 243-245 –  in Medieval theology, if a person closes his heart to charity, the Devil is
-
-                 free to tempt one to sin.
+ll. 243-245 –  in Medieval theology, if a person closes his heart to charity, the Devil is free to tempt one to sin.
 
 ll. 250-251 –  irony –  the young rioter is unaware of the plot against him.
 
 l. 277 –  metaphor –  man is often described as &quot;clay&quot; in Medieval literature.
 
-l. 280 –  the Pardoner probably asks these two rhetorical questions because the
-
-              outcome is inevitable, as it was from the beginning – death can only be slain in a spiritual sense.
+l. 280 –  the Pardoner probably asks these two rhetorical questions because the outcome is inevitable, as it was from the beginning – death can only be slain in a spiritual sense.
 
 l. 285 –  irony –  there will be more than one corpse to bury all to soon!
 
-ll. 294-295 –  their desires have destroyed the rioters – the point is not merely that they
+ll. 294-295 –  their desires have destroyed the rioters – the point is not merely that they died, but that they died because they placed all their faith in wealth and trickery.
 
-            died, but that they died because they placed all their faith in wealth and trickery.
-
-ll. 299-end –  the Pardoner ends his tale with some truly impressive and quite shame-
-
-             less self-promotion!  He encourages any and all (but, particularly those with the most sin) to come forward, kiss his religious relics, and, most importantly, to unbuckle your purse! and purchase a pardon.
+ll. 299-end –  the Pardoner ends his tale with some truly impressive and quite shame- less self-promotion!  He encourages any and all (but, particularly those with the most sin) to come forward, kiss his religious relics, and, most importantly, to unbuckle your purse! and purchase a pardon.
