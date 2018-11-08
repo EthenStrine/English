@@ -16,13 +16,13 @@
 ---
  Divided according to their class, Chaucer’s pilgrims fall into the following categories:
 
-| **Clergy Nobility The Middle Class The Working Class**
+ **Clergy Nobility The Middle Class The Working Class**
 
-| **The Prioress The Knight The Merchant The Haberdasher**
+ **The Prioress The Knight The Merchant The Haberdasher**
 
-| **The Nun’s Priest The Squire The Oxford Cleric The Dyer**
+ **The Nun’s Priest The Squire The Oxford Cleric The Dyer**
 
-| **The Monk The Yeoman The Serjeant-at-law The Carpenter**
+ **The Monk The Yeoman The Serjeant-at-law The Carpenter**
 
 **The Friar The Franklin The Weaver**
 
