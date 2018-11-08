@@ -38,6 +38,8 @@
 
 **The Miller**
 
+<sup>For a table of all of these [click here: TABLE](https://github.com/EthenStrine/English/blob/master/_posts/2018-09-17-Canturbury%20table.md) </sup>
+
 > note the absence of the poor from Chaucer’s pilgrims - this is not surprising, since the peasant classes probably lacked the means to go on pilgrimage - they were almost entirely illiterate and could rarely, if ever, leave their farms.
 
  The pilgrimage is to the shrine of the Holy Martyr, Thomas a Becket, Archbishop of Canterbury, killed by the knights of King Henry II in the 12<sup>th</sup> century.
