@@ -16,13 +16,13 @@
 ---
  Divided according to their class, Chaucer’s pilgrims fall into the following categories:
 
-**<span class="underline">Clergy Nobility The Middle Class</span> <span class="underline">The Working Class</span>**
+| **Clergy Nobility The Middle Class The Working Class**
 
-**The Prioress The Knight The Merchant The Haberdasher**
+| **The Prioress The Knight The Merchant The Haberdasher**
 
-**The Nun’s Priest The Squire The Oxford Cleric The Dyer**
+| **The Nun’s Priest The Squire The Oxford Cleric The Dyer**
 
-**The Monk The Yeoman The Serjeant-at-law The Carpenter**
+| **The Monk The Yeoman The Serjeant-at-law The Carpenter**
 
 **The Friar The Franklin The Weaver**
 
@@ -39,5 +39,5 @@
 **The Miller**
 
 > note the absence of the poor from Chaucer’s pilgrims - this is not surprising, since the peasant classes probably lacked the means to go on pilgrimage - they were almost entirely illiterate and could rarely, if ever, leave their farms.
-> 
-> The pilgrimage is to the shrine of the Holy Martyr, Thomas a Becket, Archbishop of Canterbury, killed by the knights of King Henry II in the 12<sup>th</sup> century.
+
+ The pilgrimage is to the shrine of the Holy Martyr, Thomas a Becket, Archbishop of Canterbury, killed by the knights of King Henry II in the 12<sup>th</sup> century.
