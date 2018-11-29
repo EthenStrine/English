@@ -1,4 +1,4 @@
-**The Metaphysical Poets**
+# The Metaphysical Poets
 
 The term “metaphysical poets” was coined by **Samuel Johnson**, the famous 18<sup>th</sup> century critic – **<span class="underline">metaphysics</span>** – speculations on the basic principles governing the
 
@@ -48,3 +48,16 @@ Donne's holy sonnets, or _Devine Meditations_, were composed between 1609 and 16
     When we are there; here on this lowly ground 
     Teach me how to repent; for that's as good 
     As if thou'hadst seal'd my pardon with thy blood. 
+
+In "Holy Sonnet 4," make note, particularly, of the contrast between the eneergy of the ___octave___ and the calmer mood of the ***sestet*** - the speaker, as if frightened by the energy he released in the octave, asks God to help him repent now, in this life, rather than wait to guarentee his salvation in the future.
+
+## Holy Sonnet VII
+
+II 1-4 - **imagery** - the Biblical imagery here (trumpets, angels, souls) lends a solemn, ethereal **tone**. 
+
+II 2-4 **diction** - in slow, measured pace, the poet addresses not only angels but all of humanity, past, present, and future, from the time of the flood to the firery apocalypse that will user in the Day of Judgement.
+
+II 5-8 - the pace of these lines quickens as the poet, in short order, catalogs the miseries endured by humankind.
+
+II 9-14 - in the **sestet**, a shift in *tone* as the poet turns to a rayerful communion with God - with the bision of the Last Judgement still vividly before him, he asks, with the help of God's grace, for the ability to repent and for salvation.
+
