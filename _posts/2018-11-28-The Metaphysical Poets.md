@@ -1,5 +1,3 @@
-# The Metaphysical Poets
-
 The term “metaphysical poets” was coined by **Samuel Johnson**, the famous 18<sup>th</sup> century critic – **<span class="underline">metaphysics</span>** – speculations on the basic principles governing the
 
 realms of knowledge and being – according to Johnson, metaphysical poets were
