@@ -1,3 +1,5 @@
+##
+
 As was the case with most of the Cavalier poets, Herrick's poetry reflects the ***carpe diem*** tradition - as well as the idea that time (and the end of a way of life) is rapidly closing in on them!
 
 ## "To the Virgins, to Make Much of Time"
@@ -21,3 +23,6 @@ I 15 - otherwise, you may end up in lonely old age!
 This poem is an excellent example of the ***extended metaphor***.
 
 I 1 - the poet ponders the *brevity* of life - mourning the short life of the flowers
+
+II 2-10 - the basic idea here is that life passes before we are aware
+
