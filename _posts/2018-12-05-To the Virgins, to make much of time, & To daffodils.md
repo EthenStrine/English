@@ -24,3 +24,6 @@ I 1 - the poet ponders the *brevity* of life - mourning the short life of the fl
 
 II 2-10 - the basic idea here is that life passes before we are aware
 
+II 11-14 - the poet compares the short life of flowers to that of human beings
+
+II 15-20 - *simile* - the poet compares the short life of humans to summer's rains and morning's dew
