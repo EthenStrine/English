@@ -12,3 +12,6 @@ II 5-8 *metaphor* - life is here compared to the course of the sun - a familiar 
 
 I 9 - youth is the time to enjoy love - use it up now,  ``` because it will never be this good ```
 
+II 13-14 - don't play hard to get - enjoy now! - and happily
+
+I 15 - otherwise, you may end up in lonely old age!
