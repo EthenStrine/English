@@ -15,3 +15,9 @@ I 9 - youth is the time to enjoy love - use it up now,  ``` because it will neve
 II 13-14 - don't play hard to get - enjoy now! - and happily
 
 I 15 - otherwise, you may end up in lonely old age!
+
+## "To Daffodils"
+
+This poem is an excellent example of the ***extended metaphor***.
+
+I 1 - the poet ponders the *brevity* of life - mourning the short life of the flowers
