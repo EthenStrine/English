@@ -1,5 +1,3 @@
-##
-
 As was the case with most of the Cavalier poets, Herrick's poetry reflects the ***carpe diem*** tradition - as well as the idea that time (and the end of a way of life) is rapidly closing in on them!
 
 ## "To the Virgins, to Make Much of Time"
