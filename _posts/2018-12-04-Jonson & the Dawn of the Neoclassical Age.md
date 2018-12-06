@@ -46,5 +46,3 @@ Since with it grows, and smells, I swear,
 Not of itself, but thee.
 ```
 
-## Notes
-
