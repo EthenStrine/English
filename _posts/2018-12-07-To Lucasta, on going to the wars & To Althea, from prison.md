@@ -17,3 +17,5 @@ II 9ff - the speaker points out that his lover will, in a way, benefit from his 
 I 1ff - the first three stanzas all have the same structure - the speaker compares his confinement to freedom (of birds, fish, and wind) and says that thoughts of his lover, friends, and king bring him **emotional** liberty.
 
 I 8 - *refrain* - ` Know no such liberty ` is repeateed at the end of every stanza but is altered at the end to reinforce the poem's *climax.*
+
+II 25-26 - *paradox* very famous lines - the speaker's **body** may be confined, but his mind and spirit are inspired by the people and ideas he loves - **spiritually**, he is free!
