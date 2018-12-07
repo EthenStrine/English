@@ -6,3 +6,4 @@ Because of his loyalty to the king and his membership in the military during the
 
 ### "To Lucasta, on Going to the Wars"
 
+I 1 - Lucasta is apparently an intelligent woman whose undertanding of and sympathy for the chivalric code is as great as the speaker's
