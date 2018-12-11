@@ -1,15 +1,15 @@
 # Semester
 ## Here is the basic outline of what you can expect to see on the final examination:
 
-### I. Historical Background Matching 
+ I. Historical Background Matching 
 
-### II. Poetry Terms Matching 
+ II. Poetry Terms Matching 
 
-### II. Literary Terms Definitions and Examples 
+ II. Literary Terms Definitions and Examples 
 
-### IV. Reading Interpretation (All Literary Eras)
+ IV. Reading Interpretation (All Literary Eras)
 
-### V. Essay Writing - 5 Paragraph Essay
+ V. Essay Writing - 5 Paragraph Essay
 
 
 ## Literary Terms:
