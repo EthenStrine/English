@@ -17,10 +17,16 @@
 
 1\. lamb - a type of metric measurement in poetry
 
-example: ``` "The *way* a *crow*
+example: 
+``` 
+"The *way* a *crow*
+
 Shook *down* on *me*
+
 The *dust* of *snow*
-From a *hem*lock *tree*" ``` 
+
+From a *hem*lock *tree*" 
+``` 
 
 2\. iambic pentameter - a line of verse with five metrical feet, each consisting of one short (or unstressed) syllable followed by one long (or stressed) syllable
 
@@ -28,19 +34,24 @@ example: "Two households, both alike in dignity"
 
 3\. blank verse - verse without rhyme, especially that which uses iambic pentameter
 
-example:
+example: "If passports are passwords to the heaven above,
+then we shall read the riddle"
 
 4\. couplet - two lines of verse, usually in the same meter and joined by rhyme, that form a unit
 
-example:
+example: ``` “The time is out of joint, O cursed spite
+That ever I was born to set it right!” ```
 
 5\. quatrain - a verse with four lines, or even a full poem containing four lines, having an independent and separate theme. 
 
-example:
+example: ``` “He gives his harness bells a shake
+To ask if there’s some mistake.
+The only other sound’s the sweep
+Of easy wind and downy flake.” ``` (*Stopping by Woods On a Snowy Evening* Frost)
 
 6\. octave - a poem or stanza of eight lines; an octet.
 
-example:
+example: 
 
 7\. foot  - a type of metric measurement in poetry
 
