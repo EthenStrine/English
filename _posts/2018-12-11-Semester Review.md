@@ -20,11 +20,8 @@
 example: 
 ``` 
 "The *way* a *crow*
-
 Shook *down* on *me*
-
 The *dust* of *snow*
-
 From a *hem*lock *tree*" 
 ``` 
 
