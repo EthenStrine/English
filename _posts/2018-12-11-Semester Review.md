@@ -224,8 +224,6 @@ D. code of chivalry
 
 E. fate (wyrd)
 
-PT
-
 F. paganism vs. Christianity
 
 ### V. ANALYSIS OF LITERARY SELECTIONS On the exam, you will have poems and excerpts from poems and other texts to analyze that we have not read. They were purposefully selected to test your interpretive, analy tical, and comprehension skills, as well as your knowledge of the various literary eras. In preparation, read the following texts and answer the questions for each.
@@ -250,15 +248,15 @@ The death-noise of birds instead of laughter, The mewing of gulls instead of mea
 
 The Anglo-Saxon Age
 
-from The Wife's Lament"
-
-the Exeter Book
-
+from *"The Wife's Lament"*  
+the *Exeter Book*
+```
 I make this song about me full sadly my own wayfaring. I a woman tell what griefs I had since I grew up new or old never more than now. Ever I know the dark of my exile.
 
 First my lord went out away from his people over the wave-tumult. I grieved each dawn wondered where my lord my first on earth might be.
 
 Then I went forth a friendless exile to seek service in my sorrow's need. My man's kinsmen began to plot by darkened thought to divide us two so we most widely in the world's kingdom lived wretchedly and I suffered longing.
+```
 
 1\. Who is the poem's speaker?
 
@@ -322,9 +320,19 @@ C. The Renaissance Age
 12
 
 "Heart Exchange" Sir Philip Sidney
-
-My true love hath my heart, ad I have his, By just exchange one for the other given: I hold his dear, and mine he cannot miss; There never was a bargain better driven. His heart in me keeps me and him in one; My heart in him his thoughts and senses guides: He loves my heart, for once it was his own; I cherish his, because in me it bides. His heart his wound received from my sight; My heart was wounded with his wounded heart; For, as from me on him his hurt did light, So still methought in me his hurt did smart: Both equal hurt in this change sought our bliss: My true love hath my heart and I have his.
-
+```
+MY true-love hath my heart, and I have his,	
+  By just exchange one to the other given:	
+I hold his dear, and mine he cannot miss,	
+  There never was a better bargain driven:	
+My true-love hath my heart, and I have his.	        5
+ 
+His heart in me keeps him and me in one;	
+  My heart in him his thoughts and senses guides:	
+He loves my heart, for once it was his own;	
+  I cherish his because in me it bides:	
+My true-love hath my heart, and I have his.	        10
+```
 10
 
 1\. This poem is an example of an English sonnet. Explain why.
