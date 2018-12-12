@@ -156,9 +156,9 @@ example: it foreshadowed my preoccupation with jazz
 
 32\. mock epic - typically satires or parodies that mock common Classical stereotypes of heroes and heroic literature
 
-example: Pope's "The Rape of the Lock"
+example: Pope's *"The Rape of the Lock"*
 
-33\. personification -the attribution of a personal nature or human characteristics to something nonhuman
+33\. personification - the attribution of a personal nature or human characteristics to something nonhuman
 
 example: "The car complained as the key was roughly turned in its ignition."
 
@@ -177,8 +177,6 @@ It is magical, absolutely magical the life that I live.
 
 ## III. Literary Periods 
 Thus far in British literature we have studied the Anglo-Saxon Period, the Medieval Period, the Renaissance, and the Enlightenment. Write a paragraph for each of these periods in which you describe the principles and ideals that governed the history and literature of that time. Select one literary work from each period (4 total) that you feel best exemplifies the period in which it was written. Explain why you chose that specific work.
-
-1
 
 A. THE ANGLO-SAXON PERIOD
 
