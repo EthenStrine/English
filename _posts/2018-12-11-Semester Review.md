@@ -214,10 +214,9 @@ C. THE RENAISSANCE.
 
 ### IV. COMMON THEMES Provide a complete explanation for these recurring themes.
 
+
 A. unrequited love
 
-    dihfrifyhrifhurfhrhfr
-    frkfuhr
 
 B. courtly love
 
