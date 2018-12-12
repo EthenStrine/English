@@ -147,7 +147,7 @@ example: ```The minister told the guests that the couple’s friendship was deep
 
 23\. oxymoron - a figure of speech in which apparently contradictory terms appear in conjunction
 
-example: Jumbo shrimp
+example: "Jumbo-shrimp" "military intelligence" "Apple tech support" "bug-free software"
 
 24\. epic hero - a brave and noble character in an epic poem
 
