@@ -136,7 +136,7 @@ example: "The Miller's Tale" from *The Canturbury Tales*
 
 27\. irony - the expression of one's meaning by using language that normally signifies the opposite
 
-example: calling an ambulance only to get run over by the ambulance.
+example: ```When you call an ambulance only to get run over by the ambulance.```
 
 28\. allusion - an expression designed to call something to mind without mentioning it explicitly
 
