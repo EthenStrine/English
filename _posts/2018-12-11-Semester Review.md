@@ -19,23 +19,23 @@
 
 example:
 
-2\. iambic pentameter -
+2\. iambic pentameter - a line of verse with five metrical feet, each consisting of one short (or unstressed) syllable followed by one long (or stressed) syllable
+
+example: Two households, both alike in dignity
+
+3\. blank verse - verse without rhyme, especially that which uses iambic pentameter
 
 example:
 
-3\. blank verse -
+4\. couplet - two lines of verse, usually in the same meter and joined by rhyme, that form a unit
 
 example:
 
-4\. couplet -
+5\. quatrain - a verse with four lines, or even a full poem containing four lines, having an independent and separate theme. 
 
 example:
 
-5\. quatrain -
-
-example:
-
-6\. octave -
+6\. octave - a poem or stanza of eight lines; an octet.
 
 example:
 
@@ -43,37 +43,35 @@ example:
 
 example: the iamb
 
-1. sestet -
+1\. sestet - the last six lines of a sonnet
 
 example:
 
-9\. volta -
+9\. volta -the turn of thought or argument: in Petrarchan or Italian sonnets it occurs between the octave and the sestet
 
 example:
 
 10\. cesura - a space or gap in the middle of each line
 
-TI
-
 example: Then I went forth a friendless exile from "The Wife's Lament"
 
-11\. kenning -
+11\. kenning - a compound expression in Old English and Old Norse poetry with metaphorical meaning
+
+example: *oar-steed*
+
+12\. heroic couplet - a pair of rhyming iambic pentameters
 
 example:
 
-12\. heroic couplet -
+13\. ballad - a poem or song narrating a story in short stanzas
 
 example:
 
-13\. ballad -
+14\. beast fable - a prose or verse fable or short story that usually has a moral
 
-example:
+example: *The Three Little Pigs*
 
-14\. beast fable -
-
-example:
-
-15\. satire -
+15\. satire - 
 
 example:
 
