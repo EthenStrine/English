@@ -216,6 +216,9 @@ C. THE RENAISSANCE.
 
 A. unrequited love
 
+    dihfrifyhrifhurfhrhfr
+    frkfuhr
+
 B. courtly love
 
 C. carpe diem
