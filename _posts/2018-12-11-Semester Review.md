@@ -41,10 +41,14 @@ That ever I was born to set it right!” ```
 
 5\. quatrain - a verse with four lines, or even a full poem containing four lines, having an independent and separate theme. 
 
-example: ``` “He gives his harness bells a shake
+example: 
+``` 
+“He gives his harness bells a shake
 To ask if there’s some mistake.
 The only other sound’s the sweep
-Of easy wind and downy flake.” ``` (*Stopping by Woods On a Snowy Evening* Frost)
+Of easy wind and downy flake.” 
+```
+(*Stopping by Woods On a Snowy Evening* Frost)
 
 6\. octave - a poem or stanza of eight lines; an octet.
 
