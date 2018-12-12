@@ -53,6 +53,14 @@ Of easy wind and downy flake.”
 6\. octave - a poem or stanza of eight lines; an octet.
 
 example: 
+```
+When I consider how my light is spent
+Ere half my days in this dark world and wide,
+Lodg’d with me useless, though my soul more bent…
+“Doth God exact day-labour, light denied?”
+I fondly ask. But Patience, to prevent…
+```
+(*Sonnet 16* John Milton)
 
 7\. foot  - a type of metric measurement in poetry
 
@@ -61,10 +69,24 @@ example: the iamb
 1\. sestet - the last six lines of a sonnet
 
 example:
+```
+“It was many and many a year ago,
+In a kingdom by the sea,
+That a maiden there lived whom you may know
+By the name of Annabel Lee;
+And this maiden she lived with no other thought
+Than to love and be loved by me.”
+```
+(*Annabel Lee* Edgar Allan Poe)
 
 9\. volta -the turn of thought or argument: in Petrarchan or Italian sonnets it occurs between the octave and the sestet
 
 example:
+```
+“True wit is nature to advantage dress’d;
+What oft was thought, but ne’er so well express’d.”
+```
+(*Essay on Criticism* Alexander Pope)
 
 10\. cesura - a space or gap in the middle of each line
 
@@ -76,11 +98,16 @@ example: *oar-steed*
 
 12\. heroic couplet - a pair of rhyming iambic pentameters
 
-example:
+example: 
+```
+“The time is out of joint, O cursed spite
+That ever I was born to set it right!”
+```
+(*Hamlet* Shakespeare)
 
 13\. ballad - a poem or song narrating a story in short stanzas
 
-example:
+example: *Rime of an Ancient Mariner* Samuel Taylor Coleridge or *Drover* Elton John
 
 14\. beast fable - a prose or verse fable or short story that usually has a moral
 
@@ -116,11 +143,11 @@ example: a short story in prose
 
 22\. hyperbole - exaggerated statements or claims not meant to be taken literally
 
-example: 
+example: ```The minister told the guests that the couple’s friendship was deeper than the sea, and sweeter than honey.```
 
 23\. oxymoron - a figure of speech in which apparently contradictory terms appear in conjunction
 
-example: Jumbo Shrimp
+example: Jumbo shrimp
 
 24\. epic hero - a brave and noble character in an epic poem
 
