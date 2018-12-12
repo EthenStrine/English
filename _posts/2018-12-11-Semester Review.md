@@ -15,7 +15,7 @@
 ## Literary Terms:
 ### Define these terms and give an example of each from a literary selection that we have read.
 
-1\. lamb - a type of metric measurement in poetry
+1\. iamb - a type of metric measurement in poetry
 
 example: 
 ``` 
