@@ -196,7 +196,8 @@ example: Alliteration is annoyingly addictive.
 35\. refrain - a regularly recurring phrase or verse especially at the end of each stanza
 
 example: 
-``` It is magical, yes, this life that I live
+``` 
+It is magical, yes, this life that I live
 Each day it gives something
 Something it gives each day.
 It is magical, absolutely magical the life that I live. 
@@ -211,14 +212,7 @@ B. THE MEDIEVAL PERIOD
 
 C. THE RENAISSANCE.
 
-
-
-
-IV. COMMON THEMES Provide a complete explanation for these recurring themes.
-
-
-
-
+### IV. COMMON THEMES Provide a complete explanation for these recurring themes.
 
 A. unrequited love
 
