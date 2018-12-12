@@ -228,7 +228,7 @@ PT
 
 F. paganism vs. Christianity
 
-V. ANALYSIS OF LITERARY SELECTIONS On the exam, you will have poems and excerpts from poems and other texts to analyze that we have not read. They were purposefully selected to test your interpretive, analy tical, and comprehension skills, as well as your knowledge of the various literary eras. In preparation, read the following texts and answer the questions for each.
+### V. ANALYSIS OF LITERARY SELECTIONS On the exam, you will have poems and excerpts from poems and other texts to analyze that we have not read. They were purposefully selected to test your interpretive, analy tical, and comprehension skills, as well as your knowledge of the various literary eras. In preparation, read the following texts and answer the questions for each.
 
 The Anglo-Saxon Age
 
@@ -277,16 +277,12 @@ a. fellow warriors b. family c. subjects d. a close friend e. none of the above
 B. The Medieval Period Read the following lyric poem from the Middle English period and then answer the questions.
 
 "Man Assay"
-
+```
 A man assay, assay, assay, And ask mercy while thou may
 
 Man have in mind how here byfore For thy misdeeds thou were forlore But mercy to give now Christ is bore A man assay, assay, assay, And ask mercy while thou may
 
-5
-
 In sin thy life if thou have led Amend it now be not a dread For He His mercy forth hath spread A man assay, assay, assay, And ask mercy while thou may
-
-10
 
 And if thy sin be never so ill For thy sin shalt thou not spill Now mercy to ask if thou will
 
@@ -299,10 +295,7 @@ He that the so dear hath bought Mercy He would that thou sought If thou seek he 
 Mercy is spread on the ground
 
 Thereto left for a stound Therefore thou it seek till it be found A man assay, assay, assay, And ask mercy while thou may
-
-.
-
-30
+```
 
 1\. The predominant rhyme scheme of the poem is
 
