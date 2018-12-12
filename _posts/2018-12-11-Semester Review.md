@@ -183,7 +183,7 @@ example: it foreshadowed my preoccupation with jazz
 
 32\. mock epic - typically satires or parodies that mock common Classical stereotypes of heroes and heroic literature
 
-example: Pope's *"The Rape of the Lock"*
+example: *The Rape of the Lock* Pope
 
 33\. personification - the attribution of a personal nature or human characteristics to something nonhuman
 
