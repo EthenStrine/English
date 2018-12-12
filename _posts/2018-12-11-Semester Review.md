@@ -164,12 +164,15 @@ example: Alliteration is annoyingly addictive.
 
 35\. refrain - a regularly recurring phrase or verse especially at the end of each stanza
 
-example: ``` It is magical, yes, this life that I live
+example: 
+``` It is magical, yes, this life that I live
 Each day it gives something
 Something it gives each day.
-It is magical, absolutely magical the life that I live. ```
+It is magical, absolutely magical the life that I live. 
+```
 
-III. Literary Periods Thus far in British literature we have studied the Anglo-Saxon Period, the Medieval Period, the Renaissance, and the Enlightenment. Write a paragraph for each of these periods in which you describe the principles and ideals that governed the history and literature of that time. Select one literary work from each period (4 total) that you feel best exemplifies the period in which it was written. Explain why you chose that specific work.
+## III. Literary Periods 
+Thus far in British literature we have studied the Anglo-Saxon Period, the Medieval Period, the Renaissance, and the Enlightenment. Write a paragraph for each of these periods in which you describe the principles and ideals that governed the history and literature of that time. Select one literary work from each period (4 total) that you feel best exemplifies the period in which it was written. Explain why you chose that specific work.
 
 1
 
