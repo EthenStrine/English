@@ -17,11 +17,14 @@
 
 1\. lamb - a type of metric measurement in poetry
 
-example:
+example: ``` "The *way* a *crow*
+Shook *down* on *me*
+The *dust* of *snow*
+From a *hem*lock *tree*" ``` 
 
 2\. iambic pentameter - a line of verse with five metrical feet, each consisting of one short (or unstressed) syllable followed by one long (or stressed) syllable
 
-example: Two households, both alike in dignity
+example: "Two households, both alike in dignity"
 
 3\. blank verse - verse without rhyme, especially that which uses iambic pentameter
 
@@ -71,89 +74,92 @@ example:
 
 example: *The Three Little Pigs*
 
-15\. satire - 
+15\. satire - the use of humor, irony, exaggeration, or ridicule to expose and criticize people's stupidity or vices
 
-example:
+example: *The National Lampoon*
 
-16\. metaphor -
+16\. metaphor - a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable
 
-example:
+example: "“I had fallen through a trapdoor of depression,” said Mark"
 
-17\. apostrophe -
+17\. apostrophe - an exclamatory passage in a speech or poem addressed to a person or thing
 
-example:
+example: "Then come, sweet death, and rid me of this grief."
 
-18\. diction -
+18\. diction - the choice and use of words and phrases in speech or writing
 
-example:
+example: "Wordsworth campaigned against exaggerated poetic diction."
 
-19\. paradox -
+19\. paradox - a seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true
 
-example:
+example: "Step back in order to move forward."
 
-20\. motif -
+20\. motif - a distinctive feature or dominant idea in an artistic or literary composition
 
-example:
+example: a book's boat motif
 
-21\. prose -
+21\. prose - written or spoken language in its ordinary form, without metrical structure
 
-example:
+example: a short story in prose
 
-22\. hyperbole -
+22\. hyperbole - exaggerated statements or claims not meant to be taken literally
 
-example:
+example: 
 
-23\. oxymoron -
+23\. oxymoron - a figure of speech in which apparently contradictory terms appear in conjunction
 
-example:
+example: Jumbo Shrimp
 
-24\. epic hero -
+24\. epic hero - a brave and noble character in an epic poem
 
-example:
+example: Beowulf
 
-25\. consonance -
+25\. consonance - the recurrence of similar sounds, especially consonants, in close proximity
 
-example:
+example: "Toss the glass, boss."
 
 26\. fabliaux - a dirty story told with wit and point (purpose) - mostly French in origin
 
 example: "The Miller's Tale" from *The Canturbury Tales*
 
-27\. irony -
+27\. irony - the expression of one's meaning by using language that normally signifies the opposite
 
-example:
+example: calling an ambulance only to get run over by the ambulance.
 
-28\. allusion -
+28\. allusion - an expression designed to call something to mind without mentioning it explicitly
 
-example:
+example: "He alluded to Shakespeare."
 
-29\. comic relief -
+29\. comic relief - comic episodes in a dramatic or literary work that offset more serious sections (the funny bits)
 
-example:
+example: The Porter scene in *Macbeth*
 
-30\. symbol -
+30\. symbol - a mark or character used as a conventional representation of an object, function, or process
 
-example:
+example: Yellow stands for violence or decay.
 
-31\. foreshadowing -
+31\. foreshadowing - be a warning or indication of a future event
 
-example:
+example: it foreshadowed my preoccupation with jazz
 
-32\. mock epic -
+32\. mock epic - typically satires or parodies that mock common Classical stereotypes of heroes and heroic literature
 
-example:
+example: Pope's "The Rape of the Lock"
 
-33\. personification -
+33\. personification -the attribution of a personal nature or human characteristics to something nonhuman
 
-example:
+example: "The car complained as the key was roughly turned in its ignition."
 
-34\. alliteration -
+34\. alliteration - the occurrence of the same letter or sound at the beginning of adjacent or closely connected words.
 
-example:
+example: Alliteration is annoyingly addictive.
 
-35\. refrain -
+35\. refrain - a regularly recurring phrase or verse especially at the end of each stanza
 
-example:
+example: ``` It is magical, yes, this life that I live
+Each day it gives something
+Something it gives each day.
+It is magical, absolutely magical the life that I live. ```
 
 III. Literary Periods Thus far in British literature we have studied the Anglo-Saxon Period, the Medieval Period, the Renaissance, and the Enlightenment. Write a paragraph for each of these periods in which you describe the principles and ideals that governed the history and literature of that time. Select one literary work from each period (4 total) that you feel best exemplifies the period in which it was written. Explain why you chose that specific work.
 
