@@ -217,27 +217,27 @@ C. THE RENAISSANCE.
 
 A. unrequited love
 
-    Unrequited love is the idea of loving someone/something and the loved object not loving you back. This first started coming to happen around the end of the Renaissance period.
+* Unrequited love is the idea of loving someone/something and the loved object not loving you back. This first started coming to happen around the end of the Renaissance period.
 
 B. courtly love
 
-    Courtly love is a highly conventionalized medieval tradition of love between a knight and a married noblewoman. The love of the knight for his lady was regarded as an ennobling passion and the relationship was typically unconsummated. This was usually found to be in the Medieval time period.
+* Courtly love is a highly conventionalized medieval tradition of love between a knight and a married noblewoman. The love of the knight for his lady was regarded as an ennobling passion and the relationship was typically unconsummated. This was usually found to be in the Medieval time period.
 
 C. carpe diem
 
-    Carpe diem is the urging of someone to make the most of the present time and give little thought to the future or past. Most of the Cavaliers used this concept in their writings.
+* Carpe diem is the urging of someone to make the most of the present time and give little thought to the future or past. Most of the Cavaliers used this concept in their writings.
 
 D. code of chivalry
 
-    The code of chivalry was a moral system which went beyond rules of combat to protect the honour of the knights. This system was used in the Medieval era as well.
+* The code of chivalry was a moral system which went beyond rules of combat to protect the honour of the knights. This system was used in the Medieval era as well.
 
 E. fate (wyrd)
 
-    Wyrd is a verbal noun formed from the verb weorþan, meaning "to come to pass, to become." The concept of fate was heavily sewn into the cloth that was nordic society.
+* Wyrd is a verbal noun formed from the verb weorþan, meaning "to come to pass, to become." The concept of fate was heavily sewn into the cloth that was nordic society.
 
 F. paganism vs. Christianity
 
-    The conversion of Æthelberht, king of Kent is the first account of any Christian bretwalda conversion and is told by the Venerable Bede in his histories of the conversion of England. A famous case of a ruler adopting Christanity as well as keeping parts of his old faith was king Rædwald of East Anglia, who had a Christian altar erected within his pagan temple. His suspected burial place at Sutton Hoo shows definite influences of both Christian and pagan burial rites.
+* The conversion of Æthelberht, king of Kent is the first account of any Christian bretwalda conversion and is told by the Venerable Bede in his histories of the conversion of England. A famous case of a ruler adopting Christanity as well as keeping parts of his old faith was king Rædwald of East Anglia, who had a Christian altar erected within his pagan temple. His suspected burial place at Sutton Hoo shows definite influences of both Christian and pagan burial rites.
 
 ### V. ANALYSIS OF LITERARY SELECTIONS On the exam, you will have poems and excerpts from poems and other texts to analyze that we have not read. They were purposefully selected to test your interpretive, analy tical, and comprehension skills, as well as your knowledge of the various literary eras. In preparation, read the following texts and answer the questions for each.
 
