@@ -217,14 +217,23 @@ C. THE RENAISSANCE.
 
 A. unrequited love
 
+    Unrequited love is the idea of loving someone/something and the loved object not loving you back. This first started coming to happen around the end of the Renaissance period.
 
 B. courtly love
 
+    Courtly love is a highly conventionalized medieval tradition of love between a knight and a married noblewoman. The love of the knight for his lady was regarded as an ennobling passion and the relationship was typically unconsummated. This was usually found to be in the Medieval time period.
+
 C. carpe diem
+
+    Carpe diem is the urging of someone to make the most of the present time and give little thought to the future or past. Most of the Cavaliers used this concept in their writings.
 
 D. code of chivalry
 
+    The code of chivalry was a moral system which went beyond rules of combat to protect the honour of the knights. This system was used in the Medieval era as well.
+
 E. fate (wyrd)
+
+    Old English wyrd is a verbal noun formed from the verb weorþan, meaning "to come to pass, to become." 
 
 F. paganism vs. Christianity
 
