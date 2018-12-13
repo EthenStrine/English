@@ -119,7 +119,7 @@ example: *The National Lampoon*
 
 16\. metaphor - a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable
 
-example: "“I had fallen through a trapdoor of depression,” said Mark"
+example: "'I had fallen through a trapdoor of depression,' said Mark"
 
 17\. apostrophe - an exclamatory passage in a speech or poem addressed to a person or thing
 
