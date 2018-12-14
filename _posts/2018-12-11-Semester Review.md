@@ -264,11 +264,21 @@ The Anglo-Saxon Age
 from *"The Wife's Lament"*  
 the *Exeter Book*
 ```
-I make this song about me full sadly my own wayfaring. I a woman tell what griefs I had since I grew up new or old never more than now. Ever I know the dark of my exile.
+I make this song   about me full sadly 
+my own wayfaring.   I a woman tell 
+what griefs I had   since I grew up 
+new or old     never more than now. 
+Ever I know     the dark of my exile.
 
-First my lord went out away from his people over the wave-tumult. I grieved each dawn wondered where my lord my first on earth might be.
-
-Then I went forth a friendless exile to seek service in my sorrow's need. My man's kinsmen began to plot by darkened thought to divide us two so we most widely in the world's kingdom lived wretchedly and I suffered longing.
+First my lord went out    away from his people 
+over the wave-tumult.    I grieved each dawn 
+wondered where my lord     my first on earth might be.
+Then I went forth    a friendless exile 
+to seek service    in my sorrow's need. 
+My man's kinsmen     began to plot 
+by darkened thought    to divide us two 
+so we most widely     in the world's kingdom 
+lived wretchedly    and I suffered longing.
 ```
 
 1\. Who is the poem's speaker?
@@ -289,23 +299,44 @@ B. The Medieval Period Read the following lyric poem from the Middle English per
 
 "Man Assay"
 ```
-A man assay, assay, assay, And ask mercy while thou may
+A man assay, assay, assay, 
+And ask mercy while thou may
 
-Man have in mind how here byfore For thy misdeeds thou were forlore But mercy to give now Christ is bore A man assay, assay, assay, And ask mercy while thou may
+Man have in mind how here byfore 
+For thy misdeeds thou were forlore 
+But mercy to give now Christ is bore 
+A man assay, assay, assay, 
+And ask mercy while thou may
 
-In sin thy life if thou have led Amend it now be not a dread For He His mercy forth hath spread A man assay, assay, assay, And ask mercy while thou may
+In sin thy life if thou have led 
+Amend it now be not a dread 
+For He His mercy forth hath spread 
+A man assay, assay, assay, 
+And ask mercy while thou may
 
-And if thy sin be never so ill For thy sin shalt thou not spill Now mercy to ask if thou will
+And if thy sin be never so ill 
+For thy sin shalt thou not spill 
+Now mercy to ask if thou will
+A man assay, assay, assay, 
+And ask mercy while thou may
 
-A man assay, assay, assay, And ask mercy while thou may
+God that died upon the rood 
+For thy misdeed he shed his blood 
+For his mercy is full and good 
+A man assay, assay, assay, 
+And ask mercy while thou may
 
-God that died upon the rood For thy misdeed he shed his blood For his mercy is full and good A man assay, assay, assay, And ask mercy while thou may
-
-He that the so dear hath bought Mercy He would that thou sought If thou seek he nyeth it nought A man assay, assay, assay, And ask mercy while thou may
+He that the so dear hath bought 
+Mercy He would that thou sought 
+If thou seek he nyeth it nought 
+A man assay, assay, assay, 
+And ask mercy while thou may
 
 Mercy is spread on the ground
-
-Thereto left for a stound Therefore thou it seek till it be found A man assay, assay, assay, And ask mercy while thou may
+Thereto left for a stound 
+Therefore thou it seek till it be found 
+A man assay, assay, assay, 
+And ask mercy while thou may
 ```
 
 1\. The predominant rhyme scheme of the poem is
