@@ -259,8 +259,7 @@ The death-noise of birds instead of laughter, The mewing of gulls instead of mea
 
 4\. What is the significance of the mentioning of the "soul" in the final line of the excerpt?
 
-The Anglo-Saxon Age
-
+__The Anglo-Saxon Age__  
 from *"The Wife's Lament"*  
 the *Exeter Book*
 ```
@@ -297,7 +296,7 @@ a. fellow warriors b. family c. subjects d. a close friend e. none of the above
 
 B. The Medieval Period Read the following lyric poem from the Middle English period and then answer the questions.
 
-"Man Assay"
+*"Man Assay"*
 ```
 A man assay, assay, assay, 
 And ask mercy while thou may
@@ -363,7 +362,7 @@ C. The Renaissance Age
 
 12
 
-"Heart Exchange" Sir Philip Sidney
+*"Heart Exchange"* **Sir Philip Sidney**
 ```
 MY true-love hath my heart, and I have his,	
   By just exchange one to the other given:	
@@ -377,7 +376,6 @@ He loves my heart, for once it was his own;
   I cherish his because in me it bides:	
 My true-love hath my heart, and I have his.	        10
 ```
-10
 
 1\. This poem is an example of an English sonnet. Explain why.
 
@@ -401,17 +399,25 @@ a. the Spenserian sonnet b. the Petrarchan sonnet c. the Shakespearean sonnet d.
 
 3\. În what specific ways is this poem typical of the Cavalier tradition? Explain.
 
-The Jacobean Age
-
-Holy Sonnet XV
-
+**The Jacobean Age**  
+*Holy Sonnet XV*  
 John Donne
-
-Wilt thou love God, as he thee? then digest, My Soul, this wholesome meditation, How God the Spirit, by Angels waited on In heaven, doth make his Temple in thy breast. The Father having begot a Son most blest, And still begetting, (for he ne'er begone) Hath deign'd to choose thee by adoption, Co-heir to his glory, and Sabbath's endless rest; And as a robb'd man, which by search doth find His stolen stuff sold, must lose or buy it again;
-
-The Son of glory came down, and was slain, Us whom he had made, and Satan stole, to unbind. 'Twas much, that man was made like God before, But, that God should be made like man, much more.
-
-10
+```
+WILT thou love God as He thee? then digest,	
+My soul, this wholesome meditation,	
+How God the Spirit, by angels waited on	
+In heaven, doth make His temple in thy breast.	
+The Father having begot a Son most blest,	        5
+And still begetting—for he ne’er begun—	
+Hath deign’d to choose thee by adoption,	
+Co-heir to His glory, and Sabbath’s endless rest.	
+And as a robb’d man, which by search doth find	
+His stolen stuff sold, must lose or buy it again,	        10
+The Sun of glory came down, and was slain,	
+Us whom He had made, and Satan stole, 1 to unbind.	
+’Twas much, that man was made like God before,	
+But, that God should be made like man, much more.
+```
 
 1\. Predominantly, "Holy Sonnet XV" is an example of the
 
@@ -427,25 +433,40 @@ a. internal rhyme b. apostrophe c. simile d. personification e. both b and d
 
 4\. Thoroughly explain the poem's paradox in lines 13-14.
 
-Fear No More the Heat o' the Sun
+*Fear No More the Heat o' the Sun*  
+Shakespeare
 
-15
+```
+Fear no more the heat o' the sun; 
+Nor the furious winter's rages, 
+Thou thy worldly task hast done, 
+Home art gone, and ta'en thy wages; 
+Golden lads and girls all must, 
+As chimney sweepers come to dust.
 
-Fear no more the heat o' the sun,
+Fear no more the frown of the great, 
+Thou art past the tyrant's stroke: 
+Care no more to clothe and eat; 
+To thee the reed is as the oak: 
+The sceptre, learning, physic, must 
+All follow this, and come to dust.
 
-Nor the furious winter's rages. Thou thy worldly task hast done,
+Fear no more the lightning-flash, 
+Nor the all-dread thunder-stone; 
+Fear not slander, censure rash; 
+Thou hast finished joy and moan; 
+All lovers young, all lovers must
+Consign to thee, and come to dust.
 
-Home art gone and ta'en thy wages Golden lads and girls all must, 5 As chimney sweepers, come to dust. Fear no more the frown o' the great,
+No exorciser harm thee! 
+Nor no witchcraft charm thee! 
+Ghost unlaid forbear thee! 
+Nothing ill come near thee! 
+Quiet consummation have; 
+And renowned be thy grave!
 
-Thou art past the tyrant's stroke, Care no more to clothe and eat.
 
-To thee the reed is as the oak. 20 The scepter, learning, physic, must All follow this and come to dust
-
-Fear no more the lightning flash
-
-Nor the all-dreaded thunderstone, Fear not slander, censure rash.
-
-Thou hast finished joy and moan All lovers young, all lovers must Consign to thee and come to dust. No exorciser harm thee! Nor no witchcraft charm thee! Ghost unlaid forbear thee! Nothing ill come near thee! Quiet consummation have, And renowned be thy grave!
+```
 
 1\. Which of the following most closely identifies the rhyme pattern of the first ten
 
