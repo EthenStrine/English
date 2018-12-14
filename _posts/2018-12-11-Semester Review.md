@@ -425,11 +425,18 @@ a. Spenserian sonnet b. Petrarchan sonnet c. Shakespearean sonnet d. Curtal Sonn
 
 2\. The rhyme scheme of lines 9-14 is
 
-a. cdecff b. cdecde c. cdcdee d. cddcee
+a. cdecff  
+b. cdecde  
+c. cdcdee  
+d. cddcee
 
 3\. Lines 1 through 7 of the poem make use of which of the following devices?
 
-a. internal rhyme b. apostrophe c. simile d. personification e. both b and d
+a. internal rhyme  
+b. apostrophe  
+c. simile  
+d. personification  
+e. both b and d
 
 4\. Thoroughly explain the poem's paradox in lines 13-14.
 
@@ -466,19 +473,30 @@ Quiet consummation have;
 And renowned be thy grave!
 ```
 
-1\. Which of the following most closely identifies the rhyme pattern of the first ten
-
-lines? a. abbaccdfdf b. ababcdcdef c. ababccdefe d. abcbcdefef e. ababccddee
+1\. Which of the following most closely identifies the rhyme pattern of the first ten lines?  
+a. abbaccdfdf  
+b. ababcdcdef  
+c. ababccdefe  
+d. abcbcdefef  
+e. ababccddee
 
 2\. What literary form is used in lines 5 and 6?
 
-a. allusion b. personification c. alliteration d. apostrophe e, simile
+a. allusion  
+b. personification  
+c. alliteration  
+d. apostrophe   
+e. simile
 
 3\. What phrase serves as a refrain in the poem?
 
 4\. The entire poem is an example of the use of
 
-a. apostrophe b. metaphor c. allusion d. ballad e. sonnet
+a. apostrophe   
+ b. metaphor  
+ c. allusion   
+ d. ballad  
+ e. sonnet
 
 5\. Based on your reading of the poem, from which of our literary eras does this poem come?
 
