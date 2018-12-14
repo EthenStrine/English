@@ -464,8 +464,6 @@ Ghost unlaid forbear thee!
 Nothing ill come near thee! 
 Quiet consummation have; 
 And renowned be thy grave!
-
-
 ```
 
 1\. Which of the following most closely identifies the rhyme pattern of the first ten
@@ -484,4 +482,4 @@ a. apostrophe b. metaphor c. allusion d. ballad e. sonnet
 
 5\. Based on your reading of the poem, from which of our literary eras does this poem come?
 
-Explain your answer!
+#### Explain your answer!
