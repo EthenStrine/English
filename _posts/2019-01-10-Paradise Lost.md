@@ -6,7 +6,7 @@ l. 1 – “Fruit” means both fruit and “result”
 
 l. 2 – “Mortal” means both human and “fatal”
 
-ll. 6-8 – **<span class="underline">invocation</span>** – Milton uses invocation to the Muse – a convention of epic
+II. 6-8 – **<span class="underline">invocation</span>** – Milton uses invocation to the Muse – a convention of epic
 
 poetry – he calls upon the heavenly muse that inspired
 
@@ -28,7 +28,7 @@ l. 53 – As an angel, Satan was created immortal – to remain immortal is part
 
 punishment.
 
-ll. 62-65 – **<span class="underline">paradox</span>** – fire without light – the normal rules do not apply here – under-
+II. 62-65 – **<span class="underline">paradox</span>** – fire without light – the normal rules do not apply here – under-
 
 scores the gloom and horror of hell.
 
@@ -36,13 +36,13 @@ l. 75 – **<span class="underline">style</span>** – emphasizes the horrible c
 
 find themselves.
 
-ll. 84-124 – Satan’s speech – throughout, Satan talks as though he and God were
+II. 84-124 – Satan’s speech – throughout, Satan talks as though he and God were
 
 merely two generals – one of whom bested the other in battle – this does
 
 NOT represent the real situation. This was *not* a battle between equals\!
 
-ll. 104-105 – more distortions from Satan – the outcome of the battle was never
+II. 104-105 – more distortions from Satan – the outcome of the battle was never
 
 “dubious” – God’s throne was never “shaken.”
 
@@ -52,17 +52,17 @@ except for his pride – his ability to exclude God from his heart.
 
 l. 113 – Satan again flatters himself that he almost destroyed God’s kingdom.
 
-ll. 125-126 – **<span class="underline">characterization</span>** – Satan is boastful, “vaunting aloud,” but we see into
+II. 125-126 – **<span class="underline">characterization</span>** – Satan is boastful, “vaunting aloud,” but we see into
 
 his heart “racked with deep despair.”
 
 l. 127 – “bold compeer” – Beelzebub responds
 
-ll. 133-134 – obsequious Beelzebub praises Satan – rationalizes defeat by God by
+II. 133-134 – obsequious Beelzebub praises Satan – rationalizes defeat by God by
 
 blaming it on a lack of strength and bad luck\!
 
-ll. 143-145 – **<span class="underline">characterization</span>** – like Satan, Beelzebub continues to think that it’s
+II. 143-145 – **<span class="underline">characterization</span>** – like Satan, Beelzebub continues to think that it’s
 
 merely God’s strength (not his goodness) that
 
@@ -70,7 +70,7 @@ overcame them – the most serious sin found in hell is
 
 *<span class="underline">pride</span>*\!
 
-ll. 157-165 – Satan’s reply – **<span class="underline">characterization</span>** – cast into irrevocable ruin, Satan
+II. 157-165 – Satan’s reply – **<span class="underline">characterization</span>** – cast into irrevocable ruin, Satan
 
 realizes God may still use him for good, so he is determined to sabotage
 
@@ -80,15 +80,15 @@ delight” Milton makes it clear that there is no delight in hell – Satan’s 
 
 is unrelenting and eternal.
 
-ll. 180-183 – **<span class="underline">imagery</span>** – spoken by Satan, this vivid description of Hell gains added
+II. 180-183 – **<span class="underline">imagery</span>** – spoken by Satan, this vivid description of Hell gains added
 
 force.
 
-ll. 183-191 – Satan attempts to “rally his troops” in these lines – superficially, it <span class="underline">sounds</span>
+II. 183-191 – Satan attempts to “rally his troops” in these lines – superficially, it <span class="underline">sounds</span>
 
 heroic, but be careful not to confuse **<span class="underline">rhetoric</span>** with real heroism\!
 
-ll. 198-202 – **<span class="underline">allusion</span>** – references to classical mythology – common to most
+II. 198-202 – **<span class="underline">allusion</span>** – references to classical mythology – common to most
 
 Renaissance era writers
 
@@ -96,15 +96,15 @@ l. 210 – **<span class="underline">paradox</span>** – Milton employs another
 
 usually, lakes don’t burn\!
 
-ll. 216-218 – **<span class="underline">irony</span>** – Satan’s evil will, ultimately, bring forth “goodness, grace, and
+II. 216-218 – **<span class="underline">irony</span>** – Satan’s evil will, ultimately, bring forth “goodness, grace, and
 
 mercy”
 
-ll. 232-240 – **<span class="underline">imagery</span>** – Milton completes his description of Hell with the image of a
+II. 232-240 – **<span class="underline">imagery</span>** – Milton completes his description of Hell with the image of a
 
 violent event in nature – a volcanic eruption\!
 
-ll. 239-240 – **<span class="underline">allusion</span>** – having escaped the mythical river Styx (“Stygian flood”) refers
+II. 239-240 – **<span class="underline">allusion</span>** – having escaped the mythical river Styx (“Stygian flood”) refers
 
 to their immortality – Milton stresses that Satan and
 
@@ -112,7 +112,7 @@ Beelzebub believe, mistakenly, that they are responsible for
 
 their fates.
 
-ll. 242-end – Satan’s final speech – Milton invests his Satan with massive physical
+II. 242-end – Satan’s final speech – Milton invests his Satan with massive physical
 
 size and ego to match. Satan does have a dignity of a sort; God may
 
