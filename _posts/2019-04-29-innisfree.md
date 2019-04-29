@@ -24,4 +24,4 @@ While I stand on the roadway, or on the pavements gray,
 ### Notes
 I 1 - note the capitalization of "WILL" - suggests that the poet is compelled to visit this place, whether i reality, or in his imagination.  
 I 2 - "clay and wattles" - traditional items that were used in the building of small, rustic Irish dwellings - clay, of course, is earth - wattles are poles intertwined with twigs, weeds, or branches.  
-I 4 - "...the bee-loud glade..." - wonderful descriptive phrase - worthy of Keats!
+I 4 - "...the bee-loud glade..." - wonderful descriptive phrase - worthy of Keats!  
