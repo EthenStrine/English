@@ -1,7 +1,8 @@
+# The Lake Isle of Innisfree  
+
 There are striking similarities to the Romantic style in this beautiful poem - one of Yeat's most popular. Note the poet's use of both *figurative language* and *sensory imagery* to capture teh beauty of a pastoral scene. The emotional responses which these images inspire in the speaker also recall the Romantic tradition.  
 
-## The Lake Isle of Innisfree  
-
+### The poem
 <pre>
 I WILL arise and go now, and go to Innisfree,	 
 And a small cabin build there, of clay and wattles made;	 
