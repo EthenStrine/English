@@ -1,18 +1,3 @@
----
-layout: post
-title:  "'The Lake of Innisfree' Yeats"
-date: 2019-04-29
-excerpt: ""
-feature: 
-tag:
-- English
-- Irish
-- Notes
-- Yeats
-comments: true
-published: true
----
-
 There are striking similarities to the Romantic style in this beautiful poem - one of Yeat's most popular. Note the poet's use of both *figurative language* and *sensory imagery* to capture teh beauty of a pastoral scene. The emotional responses which these images inspire in the speaker also recall the Romantic tradition.  
 
 ## The Lake Isle of Innisfree  
